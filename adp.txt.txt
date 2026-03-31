@@ -1,0 +1,107 @@
+JAVASCRIPT
+
+widely used in all platforms we use
+platform independent / adapts to the os
+no complications needed
+
+
+Embedding JavaScript
+ 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Embedding JavaScript</title>
+</head>
+<body>
+<h2>JavaScript Example</h2>
+<script type="text/javascript">
+
+document.write("Hello, this is embedded JavaScript");
+
+
+</body>
+
+</html>
+
+
+
+
+
+##### *JavaScript Methods*
+
+
+
+* alert()-Pop up msg
+* console.log()-inspect
+* document.write()-print directly
+* getElementbyld()-match he id
+* innerHTML - to be displayed after id mention
+* prompt() - get the i/p from user
+* confirm() - double check before confirmation
+* if statement
+* for loop
+* function()
+
+
+
+
+
+###### Document Object Model (DOM)
+
+
+
+##### *JavaScript Statement*
+
+
+
+document.getElementByld("demo1").innerhtml="Hello !";
+
+
+
+
+
+##### *VARIABLE*
+
+
+
+Variable declared with var can have a global or local scope 
+
+global scope is for variables 
+
+
+
+
+
+##### LET
+
+
+
+##### *Type operator*
+
+
+
+typeof - returns the type of a variable
+
+instanceof - returns true if an object is an instance of an object
+
+
+
+##### *Primitive data types*
+
+
+
+* Numbers
+* strings
+* Boolean 
+* null
+* undefined
+
+
+
+##### *Function*
+
+
+
+Function are objects with method called"()"
+
+call can supply any number of arguments
